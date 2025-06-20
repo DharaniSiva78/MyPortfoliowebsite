@@ -22,7 +22,6 @@ section {
   color: #38bdf8;
 }
 
-/* Home Section */
 .home {
   display: flex;
   flex-wrap: wrap;
@@ -100,7 +99,6 @@ section {
   box-shadow: 0 0 20px #38bdf8;
 }
 
-/* Project Section */
 .project-list {
   display: grid;
   gap: 20px;
@@ -112,7 +110,6 @@ section {
   background-color: #1a1a1a;
 }
 
-/* Skills Section */
 .skills-list {
   list-style: none;
   display: grid;
@@ -128,7 +125,6 @@ section {
   border-left: 3px solid #38bdf8;
 }
 
-/* Contact Section */
 .contact-info p {
   margin: 8px 0;
 }
